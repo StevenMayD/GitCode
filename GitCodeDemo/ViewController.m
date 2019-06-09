@@ -17,7 +17,7 @@
 - (void)viewDidLoad {
     [super viewDidLoad];
     
-    NSLog(@"这是一个git仓库测试项目，时间20191846");
+    NSLog(@"这是一个git仓库测试项目，时间20192209");
 }
 
 
